@@ -20,6 +20,11 @@
 
 ---
 
+
+## 🌐 Live Demo
+
+👉 [Visit the Live Site](https://elaborate-squirrel-c986c6.netlify.app)
+
 ## ⚙️ Features
 
 - 🧠 **Task-Specific AI Models**: Each key agricultural task is powered by a dedicated, optimized model.
@@ -59,15 +64,7 @@ PlantPro/
 
 ---
 
-## 🐳 Getting Started
-
-### 🔌 Prerequisites
-
-- Docker
-- Python 3.9+
-
-
-### 🧪 Development Setup (Docker)
+### Installation
 
 ```bash
 # Clone the repository
@@ -79,8 +76,9 @@ docker-compose up --build
 ```
 
 Once running, access:
+
 - Frontend: `http://localhost:3000`
-- Backend API: `http://localhost:8000/docs` (Swagger UI)
+- Backend API: `http://localhost:8000/
 
 ---
 
@@ -93,14 +91,14 @@ Once running, access:
 
 ---
 
-## 🧠 Model Training Highlights
+## 🧠 Model Highlights
 
-| Task                     | Model         | Accuracy |
-|--------------------------|---------------|----------|
-| Crop Classification      | VGG-19        | 92.3%    |
-| Seed Stage Identification| Inception V3  | 89.7%    |
-| Disease Detection        | ViT           | 94.5%    |
-| Yield Prediction         | LSTM          | MAE: 3.2 |
+| Task                     | Model         | 
+|--------------------------|---------------|
+| Crop Classification      | VGG-19        | 
+| Seed Stage Identification| Inception V3  | 
+| Disease Detection        | ViT           |
+| Yield Prediction         | LSTM          |
 
 ---
 
